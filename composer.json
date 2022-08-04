@@ -9,10 +9,6 @@
       "email": "der.el.kuku@gmail.com"
     }
   ],
-  "require": {
-    "php": ">=7.0",
-    "guzzlehttp/guzzle": "6.*"
-  },
   "require-dev": {
     "sami/sami": "~4.0",
     "phpunit/phpunit": "~6.0"
